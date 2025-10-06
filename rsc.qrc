@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/CoordinateSystem.png</file>
+        <file>icons/cube1.png</file>
+        <file>icons/cube2.png</file>
+        <file>icons/cube3.png</file>
+        <file>icons/cube4.png</file>
+    </qresource>
+</RCC>
